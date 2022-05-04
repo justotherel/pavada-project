@@ -1,0 +1,8 @@
+
+* {
+    box-sizing: border-box
+}
+
+.scaled-square-shorthand {
+    transform: scale3d(20deg, -20deg, 20deg);
+}
